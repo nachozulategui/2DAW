@@ -17,3 +17,9 @@ function divide(x1, x2){
 
 }
 console.log (add(1, 2));
+
+Math.add = add;
+Math.substract = substract;
+Math.multiply = multiply;
+Math.divide = divide;
+module.exports

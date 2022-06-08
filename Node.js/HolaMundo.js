@@ -1,1 +1,3 @@
-console.log("hola profesor" );
+require("./problemas")
+
+console.log(divide (1, 0));
